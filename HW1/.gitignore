@@ -1,0 +1,7 @@
+.env
+__pycache__/
+.pytest_cache/
+include/artifacts/
+logs/
+.venv/
+.DS_Store
